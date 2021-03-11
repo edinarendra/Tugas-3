@@ -1,0 +1,19 @@
+.container {
+    background-color: greenyellow;
+    float: left;
+    width: 50%;
+}
+
+.row {
+    padding-left: 1cm;
+}
+
+.sidebar {
+    background-color: greenyellow;
+    float: inline-end;
+    padding-left: 27cm;
+}
+
+.img {
+    float: right;
+}

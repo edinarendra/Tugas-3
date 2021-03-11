@@ -1,0 +1,30 @@
+.jumbotron {
+    background-color: red;
+}
+
+.container {
+    background-color: blue);
+    padding: 15px;
+    width: 1200px;
+}
+
+.sidebar {
+    background-color: darkgreen;
+    float: left;
+    width: 30%;
+    height: 400px;
+}
+
+.content {
+    background-color: blue;
+    width: 70%;
+    float: right;
+}
+
+h1 {
+    margin: 10px;
+}
+
+h2 {
+    margin: 10px;
+}
